@@ -1,0 +1,97 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main_div {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 20px auto;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px auto;
+}
+
+h1 {
+    width: 70%;
+    font-size: 37px;
+    border-bottom: 4px solid black;
+    padding-bottom: 5px;
+    margin: 10px auto;
+}
+
+main>label {
+    font-size: 20px;
+    margin: 10px 20px;
+}
+
+select {
+    font-size: 20px;
+    margin: 10px 20px;
+    border: none;
+    outline: none;
+}
+
+button {
+    width: 30%;
+    color: white;
+    background-color: rgb(155, 48, 255);
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 5px 10px;
+    font-size: 170%;
+    margin: 20px auto;
+}
+
+button:hover {
+    color: blueviolet;
+    background: white;
+}
+
+p,
+input {
+    font-size: 20px;
+    width: 80%;
+    margin-top: 20px;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#start {
+    background-color: violet;
+    color: white;
+    width: 20%;
+    font-size: 30px;
+    padding: 1px !important;
+}
+
+.display {
+    display: none;
+    /* class for disappear things in component. */
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20px 40%;
+}
+
+footer>h2 {
+    color: rgb(0, 255, 89);
+    font-size: 37px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+footer>h3 {
+    font-size: 177%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
