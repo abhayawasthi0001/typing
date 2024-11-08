@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typing.git/static/css/main.206abb86.css",
+    "main.js": "/typing.git/static/js/main.98f023a9.js",
+    "static/js/453.1f4e725f.chunk.js": "/typing.git/static/js/453.1f4e725f.chunk.js",
+    "index.html": "/typing.git/index.html",
+    "main.206abb86.css.map": "/typing.git/static/css/main.206abb86.css.map",
+    "main.98f023a9.js.map": "/typing.git/static/js/main.98f023a9.js.map",
+    "453.1f4e725f.chunk.js.map": "/typing.git/static/js/453.1f4e725f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206abb86.css",
+    "static/js/main.98f023a9.js"
+  ]
+}
